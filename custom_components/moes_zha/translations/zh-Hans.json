@@ -1,0 +1,14 @@
+{
+  "title": "MOES ZHA Extension",
+  "config": {
+    "step": {
+      "user": {
+        "title": "设置 MOES ZHA Extension",
+        "description": "扩展 ZHA 对兼容 MOES Zigbee 设备的支持。"
+      }
+    },
+    "abort": {
+      "already_configured": "MOES ZHA Extension 已经配置。"
+    }
+  }
+}
