@@ -2,8 +2,10 @@
   "domain": "moes_zha",
   "name": "MOES ZHA Extension",
   "version": "0.1.0",
-"documentation": "https://github.com/MOESHOUSE/moes-zha-extension",
-"issue_tracker": "https://github.com/MOESHOUSE/moes-zha-extension/issues",
+  "documentation": "https://github.com/MOESHOUSE/moes-zha-extension",
+  "issue_tracker": "https://github.com/MOESHOUSE/moes-zha-extension/issues",
+  "integration_type": "hub",
   "dependencies": ["zha"],
-  "config_flow": true
+  "config_flow": true,
+  "single_config_entry": true
 }
