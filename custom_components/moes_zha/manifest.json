@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "documentation": "https://github.com/MOESHOUSE/moes-zha-extension",
   "issue_tracker": "https://github.com/MOESHOUSE/moes-zha-extension/issues",
+  "codeowners": ["@MOESHOUSE/zha-maintainers"],
   "integration_type": "hub",
   "dependencies": ["zha"],
   "config_flow": true,
